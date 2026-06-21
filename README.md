@@ -3,23 +3,27 @@
 
 ### AI/ML Engineering Student
 
-AI/ML Engineering student with hands-on experience in GPU-accelerated computer vision, deep learning, and 3D reconstruction.
+AI/ML Engineering student with hands-on experience in AI security, Ai governance, computer vision, deep learning, and 3D reconstruction.
 ---
 
 ### 🌱 What I'm Currently Working On
 
-* **Kaggle - NFL Competition:** Predicting player position and motion from in-air ball trajectory.
-* **Autonomous Drone Traversal:** Developing autonomous navigation in GPS-denied environments using SIFT for localization and Reinforcement Learning (RL) for traversal.
+* **AI Security - Quinine Cybersecurity LTD:** Performing Red Teaming on self Built RAG systems and testing attack prompts over mulitple LLMs and AI models
 
 ### 🛠️ Core Skills & Tech Stack
 
 **Core Concepts:**
+*  AI Security and Governance
 * 🤖 Machine Learning & AI
 * 👁️ Computer Vision & 3D Reconstruction
 * 🧠 Deep Learning
 * 🗣️ Transformers & NLP
 
 ### 🏆 Experience & Achievements
+
+**AI security Intern @ Quinine cybersecurity LTD**
+* Performing Red Teaming over models for finding models Vulnerabilities and understanding Clients RAG system architecture and finding missing safty layers For clients.
+* And also managing the projecgts and the team. 
 
 **Research Intern @ Physical Research Laboratory, ISRO**
 * Developed a thermal simulation app using a pre-built model for lunar regolith with COMSOL Multiphysics to analyze heat transfer properties[cite: 40].
@@ -32,9 +36,7 @@ AI/ML Engineering student with hands-on experience in GPU-accelerated computer v
 * 🏅 **Finalist** - Pune Metro Hackathon (AI-based fall detection system) [cite: 46]
 
 ### 📚 Currently Learning
-* MLOps & deploying large-scale AI systems
-* Data Interpretation and Analysis
-* Deep Computer Vision (Advanced Concepts)
+* AI Red and Blue teaming 
 * Data Structures and Algorithms
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Devesh Mhaske) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deveshmhaske37@gmail.com) 
